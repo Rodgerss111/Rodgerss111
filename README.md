@@ -18,7 +18,7 @@ I am a Computer Engineering Student who refuses to let code stay trapped on a sc
 
 
 (The Body)</h3>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHA5aG9zOHZ6MXVtZTRnNDd1d3M4eHVyZHFmb2x4a2hhYTZmanRvbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ao9DUiTKH60XS/giphy.gif" width="310"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHA5aG9zOHZ6MXVtZTRnNDd1d3M4eHVyZHFmb2x4a2hhYTZmanRvbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ao9DUiTKH60XS/giphy.gif" width="210"/>
 
 
 
@@ -33,7 +33,7 @@ I am a Computer Engineering Student who refuses to let code stay trapped on a sc
 
 
 (The Brain)</h3>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXk0dnl1MjZiZ3U4bnJqNW4zYnlkcmtyMzR4c3h1dXFoZmM2dWpwNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/HVRMLnGqOoXAjvT9v0/giphy.gif" width="280" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXk0dnl1MjZiZ3U4bnJqNW4zYnlkcmtyMzR4c3h1dXFoZmM2dWpwNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/HVRMLnGqOoXAjvT9v0/giphy.gif" width="180" />
 
 
 
@@ -48,14 +48,14 @@ I am a Computer Engineering Student who refuses to let code stay trapped on a sc
 
 
 (The Soul)</h3>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhrdWRwZGpva3I2eTlhMWJkem8xMXk4ZHMyNGRkYmp0a2hzYm12YyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QAtOBIMImJUyBBVruj/giphy.gif" width="240"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhrdWRwZGpva3I2eTlhMWJkem8xMXk4ZHMyNGRkYmp0a2hzYm12YyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QAtOBIMImJUyBBVruj/giphy.gif" width="170"/>
 
 
 
 
 
 
-<b>Focus:</b> Currently expanding into Cloud Computing & DevOps to give my devices a Hive Mind.
+<b>Focus:</b> Currently expanding into Cloud Computing & DevOps.
 </td>
 </tr>
 </table>
