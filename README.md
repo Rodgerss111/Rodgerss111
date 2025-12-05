@@ -6,7 +6,7 @@
 
 👨‍💻 Who is the Pilot?
 
-I am a Computer Engineering Student who refuses to let code stay trapped on a screen. I specialize in Embedded Systems, meaning I build bridges between the digital logic and the physical world.
+I am a Computer Engineering Student specializing in Embedded Systems, focused on architecting solutions that bridge the gap between digital logic and physical hardware environments.
 
 🛠️ The Arsenal (Tech Stack)
 
