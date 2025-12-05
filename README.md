@@ -25,7 +25,7 @@ I am a Computer Engineering Student who refuses to let code stay trapped on a sc
 
 
 
-<b>Focus:</b> Microcontrollers (ESP32, STM32), Sensors, IoT Circuitry, Wireless Protocol Mastery.
+<b>Focus:</b> Microcontrollers (ESP32, STM32), Sensors, PCB, IoT Circuitry, Wireless Protocol Mastery.
 </td>
 <td align="center" width="33%">
 <h3>🧠 The Logic
@@ -40,7 +40,7 @@ I am a Computer Engineering Student who refuses to let code stay trapped on a sc
 
 
 
-<b>Focus:</b> Machine Learning (TinyML, Raspberry Pi), Software Systems, Algorithmic Thinking, Embedded C.
+<b>Focus:</b> Machine Learning (TinyML, Raspberry Pi),GUI, Software Systems, Algorithmic Thinking, Embedded C.
 </td>
 <td align="center" width="33%">
 <h3>☁️ The Network
@@ -48,7 +48,7 @@ I am a Computer Engineering Student who refuses to let code stay trapped on a sc
 
 
 (The Soul)</h3>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJ5ZWFxaDIyMzFnMWd5a2wyMDd3a3lwdHM5ZW44cGhuam8yamwzYiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xOAyAuNjL36Q5ftJ6j/giphy.gif" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhrdWRwZGpva3I2eTlhMWJkem8xMXk4ZHMyNGRkYmp0a2hzYm12YyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QAtOBIMImJUyBBVruj/giphy.gif" />
 
 
 
