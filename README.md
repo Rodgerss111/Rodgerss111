@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<h1>🚀 Welcome to My Digital Space</h1>
+<h1> Welcome to My Digital Space</h1>
 
-👨‍💻 Who is the Pilot?
+
 
 I am a Computer Engineering Student specializing in Embedded Systems, focused on architecting solutions that bridge the gap between digital logic and physical hardware environments.
 
@@ -40,7 +40,7 @@ I am a Computer Engineering Student specializing in Embedded Systems, focused on
 
 
 
-<b>Focus:</b> Machine Learning (TinyML, Raspberry Pi),GUI, Software Systems, Algorithmic Thinking, Embedded C.
+<b>Focus:</b> AI-Driven Embedded Intelligence — Machine Learning (TinyML, Raspberry Pi), GUI Applications, Software System Architecture, Algorithm Design, and Embedded C Programming.
 </td>
 <td align="center" width="33%">
 <h3>☁️ The Network
