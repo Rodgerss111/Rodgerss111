@@ -77,7 +77,7 @@ from microcontroller to cloud.
 
 </td>
 <td align="center" width="33%">
-<h3>☁️ The Network
+<h3>☁️ The Cloud Layer
 
 
 
