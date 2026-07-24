@@ -7,12 +7,12 @@
 
 
 I'm a Computer Engineering Student specializing in **Embedded Systems**, 
-with focused expertise in **Edge AI (TinyML)** and **IoT Cloud Integration**.
+with focused expertise in **Embedded Systems** and **Edge AI (TinyML)**.
 
 I build intelligent embedded systems that process AI at the edge and 
 connect seamlessly to cloud platforms.
 
-### 🎯 My Niche: Edge AI + IoT
+### 🎯 My Niche: Embedded Systems + Edge AI (TinyML)
 
 **What I Do:**
 Building production-ready IoT systems with on-device intelligence — 
