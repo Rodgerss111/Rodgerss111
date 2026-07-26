@@ -1,133 +1,59 @@
-<!-- HERO SECTION: The Hook -->
+# Hi, I'm Rod
 
-<div align="center">
+Computer Engineering student focused on Embedded Systems and Edge AI. I build systems that combine firmware, hardware, and machine learning—from low-level drivers to edge AI applications. I enjoy designing systems where hardware and software come together to solve real-world engineering problems.
 
-<h1> Welcome to My Digital Space</h1>
+---
 
+## Featured Projects
 
+### 🛰️ [SEABeacon](#)
 
-I'm a Computer Engineering Student specializing in **Embedded Systems**, 
-with focused expertise in **Embedded Systems** and **Edge AI (TinyML)**.
+AI-powered platform for 72-hour typhoon forecasting and regional disaster monitoring across Southeast Asia.
 
-I build intelligent embedded systems that process AI at the edge and 
-connect seamlessly to cloud platforms.
+### ☕ [Smart Coffee Sniffer](#)
 
-### 🎯 My Niche: Embedded Systems + Edge AI (TinyML)
+Electronic nose achieving 96% coffee classification accuracy using SVM.
 
-**What I Do:**
-Building production-ready IoT systems with on-device intelligence — 
-from microcontroller to cloud.
+### 💧 [AquaSentinel](#)
 
-🛠️ The Arsenal (Tech Stack)
+Automated water refilling system achieving 100% fill success.
 
-<table>
-<tr>
-<td align="center" width="33%">
-<h3>🔌 The Hardware
+### ⚡ [Atomic GPIO Driver](#)
 
-(The Body)</h3>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHA5aG9zOHZ6MXVtZTRnNDd1d3M4eHVyZHFmb2x4a2hhYTZmanRvbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ao9DUiTKH60XS/giphy.gif" width="210"/>
+Register-level STM32 GPIO driver with race-condition-free atomic access.
 
+### 🔋 [Future-Proof Firmware](#)
 
-<b>Focus:</b> Microcontrollers (ESP32, STM32), Sensors, PCB, IoT Circuitry, Wireless Protocol Mastery.
-**Microcontrollers & Platforms:**
-- ARM Cortex-M (STM32, nRF52)
-- ESP32 (WiFi/BLE connectivity)
-- Raspberry Pi (Edge computing)
+Modular ESP32-S3 firmware architecture using FreeRTOS producer–consumer queues for scalable embedded systems.
 
-**Interfaces & Protocols:**
-- I2C, SPI, UART
-- MQTT, CoAP
-- BLE, WiFi, LoRaWAN
+### 🤖 [NeuralCube](#)
 
-**Sensors & Actuators:**
-- IMU, Environmental, Vision
-- Motor control, GPIO
-</td>
+Browser-based Rubik's Cube solver combining a neural network with classical algorithms for reliable F2L guidance.
 
-<td align="center" width="33%">
-<h3>🧠 The Logic
+---
 
-(The Brain)</h3>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXk0dnl1MjZiZ3U4bnJqNW4zYnlkcmtyMzR4c3h1dXFoZmM2dWpwNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/HVRMLnGqOoXAjvT9v0/giphy.gif" width="180" />
+## Areas of Focus
 
+**Embedded Systems**
 
+Firmware, drivers, RTOS, and hardware integration.
 
+**Edge AI**
 
+Machine learning for intelligent sensing and embedded decision-making.
 
+**Edge-to-Cloud Systems**
 
-<b>Focus:</b> AI-Driven Embedded Intelligence — Machine Learning (TinyML, Raspberry Pi), GUI Applications, Software System Architecture, Algorithm Design, and Embedded C Programming.
+Connecting embedded devices with scalable backend services.
 
-**Machine Learning at the Edge:**
-- TensorFlow Lite for Microcontrollers
-- Edge Impulse
-- Model optimization & quantization
-- On-device inference 
+**Hardware Design**
 
-**Embedded Software:**
-- C/C++ (embedded focus)
-- FreeRTOS / Real-Time Systems
-- Python (ML pipelines, tooling)
-- Memory optimization techniques
+PCB development, sensor integration, and rapid prototyping.
 
+---
 
+## Let's Connect
 
+I'm always interested in discussing embedded systems, Edge AI, and intelligent IoT. Feel free to connect on LinkedIn or explore my projects.
 
-
-
-</td>
-<td align="center" width="33%">
-<h3>☁️ The Cloud Layer
-
-
-
-(The Soul)</h3>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhrdWRwZGpva3I2eTlhMWJkem8xMXk4ZHMyNGRkYmp0a2hzYm12YyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QAtOBIMImJUyBBVruj/giphy.gif" width="170"/>
-
-
-
-
-
-
-<b>Currently working on:</b> 
-
-**IoT Platforms:**
-- AWS IoT Core
-- Azure IoT Hub
-- MQTT brokers
-
-**Services:**
-- Device management & provisioning
-- Time-series data storage
-- Serverless functions (Lambda)
-- Real-time dashboards
-
-**DevOps:**
-- Docker (containerization)
-- CI/CD pipelines
-- OTA firmware updates
-</td>
-</tr>
-</table>
-
-**📚 Currently Learning:**
-
-Advanced RTOS concepts (FreeRTOS)
-
-Model compression techniques
-
-IoT security best practices
-
-Edge-to-cloud architecture patterns
-
-## 📫 Let's Connect
-
-**Interested in:**
-- Edge AI / TinyML projects
-- IoT system architecture
-- Embedded systems optimization
-- Collaborating on intelligent IoT solutions
-
-**Reach me at:** [https://www.linkedin.com/in/rod-geryk-navarro-46a76b393/]
-
-
+**[LinkedIn](https://www.linkedin.com/in/rod-geryk-navarro-46a76b393/)**
