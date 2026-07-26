@@ -1,6 +1,6 @@
 # Hi, I'm Rod
 
-Computer Engineering student focused on Embedded Systems and Edge AI. I build systems that combine firmware, hardware, and machine learning—from low-level drivers to edge AI applications. I enjoy designing systems where hardware and software come together to solve real-world engineering problems.
+Computer Engineering student focused on Embedded Systems and Edge AI. I build intelligent embedded systems by combining firmware, hardware, and machine learning—from low-level drivers to edge AI applications. I'm fascinated by the intersection of hardware and embedded intelligence, and enjoy designing reliable systems that solve real-world engineering problems.
 
 ---
 
@@ -8,7 +8,7 @@ Computer Engineering student focused on Embedded Systems and Edge AI. I build sy
 
 ### 🛰️ [SEABeacon](#)
 
-AI-powered platform for 72-hour typhoon forecasting and regional disaster monitoring across Southeast Asia.
+AI-powered early warning platform for 72-hour typhoon forecasting and regional disaster monitoring across Southeast Asia.
 
 ### ☕ [Smart Coffee Sniffer](#)
 
@@ -16,7 +16,7 @@ Electronic nose achieving 96% coffee classification accuracy using SVM.
 
 ### 💧 [AquaSentinel](#)
 
-Automated water refilling system achieving 100% fill success.
+Automated water refilling system using custom firmware and load-cell sensing, achieving 100% fill success in testing.
 
 ### ⚡ [Atomic GPIO Driver](#)
 
@@ -28,7 +28,7 @@ Modular ESP32-S3 firmware architecture using FreeRTOS producer–consumer queues
 
 ### 🤖 [NeuralCube](#)
 
-Browser-based Rubik's Cube solver combining a neural network with classical algorithms for reliable F2L guidance.
+Browser-based Rubik's Cube solver combining neural and classical algorithms for efficient solve generation.
 
 ---
 
@@ -36,7 +36,7 @@ Browser-based Rubik's Cube solver combining a neural network with classical algo
 
 **Embedded Systems**
 
-Firmware, drivers, RTOS, and hardware integration.
+Firmware, low-level drivers, RTOS, and hardware integration.
 
 **Edge AI**
 
@@ -54,6 +54,7 @@ PCB development, sensor integration, and rapid prototyping.
 
 ## Let's Connect
 
-I'm always interested in discussing embedded systems, Edge AI, and intelligent IoT. Feel free to connect on LinkedIn or explore my projects.
+I'm always interested in discussing embedded systems, Edge AI, and intelligent IoT.
 
-**[LinkedIn](https://www.linkedin.com/in/rod-geryk-navarro-46a76b393/)**
+- 💼 [LinkedIn](https://www.linkedin.com/in/rod-geryk-navarro-46a76b393/)
+- 📂 Explore my featured repositories
