@@ -22,7 +22,7 @@ Automated water refilling system using custom firmware and load-cell sensing, ac
 
 Register-level STM32 GPIO driver with race-condition-free atomic access.
 
-### 🔋 [Future-Proof Firmware Architecture]([#](https://github.com/Rodgerss111/Future-Proof-Firmware-ESP32-S3-FreeRTOS-Producer-Consumer-Queues))
+### 🔋 [Future-Proof Firmware Architecture](https://github.com/Rodgerss111/Future-Proof-Firmware-ESP32-S3-FreeRTOS-Producer-Consumer-Queues)
 
 Modular ESP32-S3 firmware architecture using FreeRTOS producer–consumer queues for scalable embedded systems.
 
