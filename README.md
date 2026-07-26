@@ -10,9 +10,9 @@ Computer Engineering student focused on Embedded Systems and Edge AI. I build in
 
 AI-powered early warning platform for 72-hour typhoon forecasting and regional disaster monitoring across Southeast Asia.
 
-### ☕ [Smart Coffee Sniffer](https://github.com/Rodgerss111/Smart-Coffee-Sniffer)
+### ☕ [Smart Coffee Sniffer](https://github.com/Rodgerss111/Smart-Coffee-Sniffer) *(Repository Coming Soon)*
 
-Electronic nose achieving 96% coffee classification accuracy using SVM.
+Electronic nose achieving 96% coffee classification accuracy using Support Vector Machine (SVM).
 
 ### 💧 [Weight Sensor & ATmega32-Based Automated Water Refilling System](https://github.com/Rodgerss111/atmega32-water-refilling-system)
 
@@ -29,6 +29,8 @@ Modular ESP32-S3 firmware architecture using FreeRTOS producer–consumer queues
 ### 🤖 [NeuralCube](https://github.com/Rodgerss111/NeuralCube-An-ML-Powered-3D-Solver-for-Advanced-CFOP-Recognition)
 
 Browser-based Rubik's Cube solver combining neural and classical algorithms for efficient solve generation.
+
+> **Note:** Some of my flagship projects are temporarily unavailable on my GitHub profile due to ongoing conference publication processes and research considerations. They will be made publicly accessible once the associated publication requirements have been completed.
 
 ---
 
