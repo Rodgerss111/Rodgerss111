@@ -6,15 +6,15 @@ Computer Engineering student focused on Embedded Systems and Edge AI. I build in
 
 ## Featured Projects
 
-### 🛰️ [SEABeacon](#)
+### 🛰️ [SEABeacon](https://github.com/Rodgerss111/SEABeacon-Regional-Disaster-Alert-System)
 
 AI-powered early warning platform for 72-hour typhoon forecasting and regional disaster monitoring across Southeast Asia.
 
-### ☕ [Smart Coffee Sniffer](#)
+### ☕ [Smart Coffee Sniffer](https://github.com/Rodgerss111/Smart-Coffee-Sniffer)
 
 Electronic nose achieving 96% coffee classification accuracy using SVM.
 
-### 💧 [AquaSentinel](#)
+### 💧 [Weight Sensor & ATmega32-Based Automated Water Refilling System](#)
 
 Automated water refilling system using custom firmware and load-cell sensing, achieving 100% fill success in testing.
 
