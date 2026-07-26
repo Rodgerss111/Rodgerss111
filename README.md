@@ -14,19 +14,19 @@ AI-powered early warning platform for 72-hour typhoon forecasting and regional d
 
 Electronic nose achieving 96% coffee classification accuracy using SVM.
 
-### 💧 [Weight Sensor & ATmega32-Based Automated Water Refilling System](#)
+### 💧 [Weight Sensor & ATmega32-Based Automated Water Refilling System](https://github.com/Rodgerss111/atmega32-water-refilling-system)
 
 Automated water refilling system using custom firmware and load-cell sensing, achieving 100% fill success in testing.
 
-### ⚡ [Atomic GPIO Driver](#)
+### ⚡ [Atomic GPIO Driver](https://github.com/Rodgerss111/AtomicGPIO-Driver)
 
 Register-level STM32 GPIO driver with race-condition-free atomic access.
 
-### 🔋 [Future-Proof Firmware](#)
+### 🔋 [Future-Proof Firmware Architecture]([#](https://github.com/Rodgerss111/Future-Proof-Firmware-ESP32-S3-FreeRTOS-Producer-Consumer-Queues))
 
 Modular ESP32-S3 firmware architecture using FreeRTOS producer–consumer queues for scalable embedded systems.
 
-### 🤖 [NeuralCube](#)
+### 🤖 [NeuralCube](https://github.com/Rodgerss111/NeuralCube-An-ML-Powered-3D-Solver-for-Advanced-CFOP-Recognition)
 
 Browser-based Rubik's Cube solver combining neural and classical algorithms for efficient solve generation.
 
