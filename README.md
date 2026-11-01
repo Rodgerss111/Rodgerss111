@@ -10,7 +10,7 @@ Computer Engineering student focused on Embedded Systems and Edge AI. I build in
 
 AI-powered early warning platform for 72-hour typhoon forecasting and regional disaster monitoring across Southeast Asia.
 
-### ☕ [Smart Coffee Sniffer](https://github.com/Rodgerss111/Smart-Coffee-Sniffer) *(Repository Coming Soon)*
+### ☕ [Smart Coffee Sniffer](https://github.com/Rodgerss111/Smart-Coffee-Sniffer)
 
 Electronic nose achieving 96% coffee classification accuracy using Support Vector Machine (SVM).
 
