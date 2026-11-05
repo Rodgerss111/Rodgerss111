@@ -27,4 +27,4 @@ PCB development, sensor integration, and rapid prototyping.
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/rod-geryk-navarro-46a76b393/)
-- Explore my featured repositories
+- Explore my featured repositories below
