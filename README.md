@@ -5,6 +5,7 @@
     </picture>
   </a>
 </div>
+
 # Hi, I'm Rod
 
 Computer Engineering student focused on Embedded Systems and Edge AI. I build intelligent embedded systems by combining firmware, hardware, software, and machine learning, from low-level drivers to edge AI applications. I'm fascinated by the intersection of hardware and embedded intelligence, and enjoy designing reliable systems that solve real-world engineering problems.
