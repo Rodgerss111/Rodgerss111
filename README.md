@@ -5,4 +5,3 @@
     </picture>
   </a>
 </div>
-Click the raven for more info
